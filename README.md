@@ -7,7 +7,7 @@
 요가 출석과 결제 주기를 관리하는 웹(앱)
 
 - Tech  
-Google AI Studio · React · TypeScript
+: Google AI Studio · React · TypeScript
 
 - Repository: 
 [Yoga Mate Repository](https://github.com/Elena-0422/yoga-mate)
