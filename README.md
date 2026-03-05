@@ -15,3 +15,5 @@ Repository
 
 Live Demo
 [Yoga Mate](https://yoga-mate.vercel.app)
+
+---
