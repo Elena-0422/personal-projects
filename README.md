@@ -4,16 +4,15 @@
 ---
 
 ## Yoga Mate
-
 요가 출석과 결제 주기를 관리하는 웹(앱)
 
-Tech  
+- Tech  
 Google AI Studio · React · TypeScript
 
-Repository
+- Repository
 [Yoga Mate Repository](https://github.com/Elena-0422/yoga-mate)
 
-Live Demo
+- Live Demo
 [Yoga Mate](https://yoga-mate.vercel.app)
 
 ---
