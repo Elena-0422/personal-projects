@@ -10,9 +10,9 @@
 : Google AI Studio · React · TypeScript
 
 - Repository: 
-[Yoga Mate Repository](https://github.com/Elena-0422/yoga-mate)
+
 
 - Live Demo: 
-[Yoga Mate](https://yoga-mate.vercel.app)
+
 
 ---
